@@ -27,7 +27,9 @@ A lightweight and elegant News Aggregator web app that fetches and displays the 
 ![Light Mode](./screenshots/light-mode.png)
 ![Dark Mode](./screenshots/dark-mode.png)
 
+
  ---
+ 
 
 ## 📦 Getting Started
 
@@ -41,12 +43,16 @@ To get started with the TechCrunch News Aggregator:
 2. **Open in browser**
 No build tools needed. Just open index.html in any modern browser.
 
+---
+
 
 ### 💾 Bookmarks Storage
 Bookmarked articles are saved in localStorage and persist across sessions (browser-only).
 
+---
 
-##Learning Outcomes
+**Learning Outcomes**
+
 DOM manipulation without libraries
 
 Handling RSS feeds via APIs
@@ -56,6 +62,8 @@ State management with localStorage
 Event-driven UI updates
 
 Progressive Enhancement (Dark Mode + Share API)
+
+---
 
 📬 Contact
 Jaina Pal
