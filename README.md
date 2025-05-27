@@ -11,6 +11,8 @@ A lightweight and elegant News Aggregator web app that fetches and displays the 
 - 🔖 Bookmark articles to `localStorage`
 - 📤 Native Share API integration (mobile/web supported)
 
+   ---
+
 ## 🧰 Tech Stack
 
 - **HTML5** – Semantic structure
@@ -18,25 +20,29 @@ A lightweight and elegant News Aggregator web app that fetches and displays the 
 - **JavaScript (Vanilla)** – DOM manipulation, API calls, interactivity
 - **API Used**: [`rss2json`](https://rss2json.com)
 
+  ---
+
 ## 📸 Screenshots
 
 ![Light Mode](./screenshots/light-mode.png)
 ![Dark Mode](./screenshots/dark-mode.png)
 
-
+ ---
 
 ## 📦 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/jainapal/News-Aggregator.git
-cd techcrunch-news-aggregator
+To get started with the TechCrunch News Aggregator:
 
-###2.Open in Browser
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/jainapal/News-Aggregator.git
+   cd News-Aggregator
+   
+2. **Open in browser**
 No build tools needed. Just open index.html in any modern browser.
 
 
-💾 Bookmarks Storage
+### 💾 Bookmarks Storage
 Bookmarked articles are saved in localStorage and persist across sessions (browser-only).
 
 
